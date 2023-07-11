@@ -49,14 +49,12 @@ class AuthencodeController extends Controller
         // $authen = Http::post("http://localhost:8189/api/nhso-service/save-as-draft");
         // $cid = $req->pid;
         // $tel = $req->mobile;
-
-
         // $cid = '3451000002897';
         // $claimType = 'PG0060001';
         // $mobile = '0832411548';
         // $correlationId = '2341dc4e-9f38-4b93-ad61-5284e68ac5e4';
         // $hcode = '10978';  
-        
+        // 124242
         // $cid = '1360400223487';
         // $authen = Http::post("http://localhost:8189/api/nhso-service/confirm-save/",
         // [
